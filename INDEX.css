@@ -96,7 +96,7 @@ p {
     background: #31344e url("img/intro-bg.jpg") center no-repeat / cover;
     
     Если не работает запись выше, используйте эту:*/
-    background: #31344e url("images/intro-bg.jpg") center no-repeat;
+    background: #31344e url("image/intro-bg.jpg") center no-repeat;
     background-size: cover;
     
 }
