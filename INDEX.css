@@ -92,12 +92,12 @@ p {
     justify-content: center;
     height: 750px;
     padding-top: 100px;
-/*
-    background: #31344e url("img/intro-bg.jpg") center no-repeat / cover;
+
+    background: #31344e url("image/intro-bg.jpg") center no-repeat / cover;
     
-    Если не работает запись выше, используйте эту:*/
-    background: #31344e url("image/intro-bg.jpg") center no-repeat;
-    background-size: cover;
+  
+/*     background: #31344e url("image/intro-bg.jpg") center no-repeat;
+    background-size: cover; */
     
 }
 
